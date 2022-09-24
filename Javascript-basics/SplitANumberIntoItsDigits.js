@@ -13,3 +13,12 @@ function myFunction (a) {
 myFunction(10)
 myFunction(931)
 myFunction(193278)
+
+/* RESPOSTA NODE.JS
+
+Info: Start process (11:50:32)
+[ 1, 0 ]
+[ 9, 3, 1 ]
+[ 1, 9, 3, 2, 7, 8 ]
+Info: End process (11:50:32)
+*/
